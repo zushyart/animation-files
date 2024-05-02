@@ -1,2 +1,2 @@
 # Animation-files
-The files I use to make my YouTube show Tricky Hard Experiences, along with other animations. I won't upload the Blender and FireAlpaca files because I feel like I don't need to. I also won't upload any unoriginal audio. The Turbowarp files and images should be enough for people to have fun.
+The files I use to make my YouTube show Happy Object World, along with other animations. I'll only upload what I feel like I need to. Most people won't care about this, but I'm sure some people will.
